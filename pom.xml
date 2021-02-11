@@ -38,6 +38,13 @@
 				<configuration>
 					<release>15</release>
 				</configuration>
+			  <dependencies>
+					<dependency>
+					  <groupId>org.codehaus.plexus</groupId>
+					  <artifactId>plexus-java</artifactId>
+					  <version>1.0.6</version>
+					</dependency>
+				</dependencies>
 			</plugin>
 		</plugins>
 	</build>
